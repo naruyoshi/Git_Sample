@@ -1,2 +1,2 @@
 this is sample A
-	this is sample A from issue#2
+	this is sample A from issue#1
